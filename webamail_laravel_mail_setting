@@ -1,0 +1,12 @@
+
+Septup laravel smtp mail setting from webmail.
+
+
+MAIL_DRIVER=smtp
+MAIL_HOST=mail.domain.com
+MAIL_FROM_NAME=NoReply
+MAIL_PORT=465
+MAIL_FROM_ADDRESS=info@domain.com
+MAIL_USERNAME=info@domain.com
+MAIL_PASSWORD=infodomain
+MAIL_ENCRYPTION=ssl
